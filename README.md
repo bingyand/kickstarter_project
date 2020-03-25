@@ -1,2 +1,7 @@
-# project
-Data Analytics Project with Python
+# Topic Modeling with Python
+
+Gensim
+NLTK
+pyLDAvis
+RegEx
+Text Mining
